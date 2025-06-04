@@ -74,6 +74,11 @@ This repository implements an email processing pipeline that leverages state-of-
 
 The application requires several configuration settings (such as API keys and email server credentials). Create a `.env` file in the project root with the following variables:
 
+**To get SMTP Settings:**
+You can use the Gmail SMTP server. I suggest you use an email you don’t use for personal use. Any gmail that has less mails in inbox ( for faster gmail processing ).
+The first thing we need is to set up 2-factor verification. Go to the `https://myaccount.google.com/security` and allow it on your account.
+As a second step, we need to create an app. Go to `https://myaccount.google.com/apppasswords`. It will give you a password, which we will use in this application.
+
 ```dotenv
 # Openai API
 OPENAI_API_KEY=your_openai_api_key
