@@ -1,0 +1,7 @@
+langchain
+langgraph
+langsmith
+python_dotenv
+openai
+jinja2
+langchain-openai
