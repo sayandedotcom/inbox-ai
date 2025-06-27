@@ -1,6 +1,6 @@
 # AI-Driven Email Assistant
 
-⚠️ NOTE:- This project is in under development and is not yet production-ready. If you want to know the Email processing pipeline with AI Agent then navigate to temp folder and check out the `main.py` file. It contains the main entry point for the application and orchestrates the email processing workflow.
+⚠️ NOTE:- This project is in under development and is not yet production-ready. If you want to know the Email processing pipeline with AI Agent then navigate to temp folder and check out the `temp/main.py` file. It contains the main entry point for the application and orchestrates the email processing workflow.
 
 An AI-powered email automation system that fetches, filters, summarizes, and generates responses to emails using advanced language models. It integrates with both IMAP and SMTP servers and utilizes a state-graph workflow to manage email processing.
 
