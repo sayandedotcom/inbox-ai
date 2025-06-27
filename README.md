@@ -53,8 +53,8 @@ This repository implements an email processing pipeline that leverages state-of-
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/sayandedotcom/inbox-ai.git
+   cd inbox-ai
    ```
 
 2. **Create and activate a virtual environment (recommended):**
