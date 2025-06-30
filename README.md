@@ -12,6 +12,7 @@ An AI-powered email automation system that fetches, filters, summarizes, and gen
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Features](#features)
+  - [Sequence Diagram](#sequence-diagram)
   - [Installation](#installation)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -39,6 +40,14 @@ This repository implements an email processing pipeline that leverages state-of-
 - **Human Review:** Provides an option for manual review and editing of auto-generated responses.
 - **State Graph Workflow:** Orchestrates the email processing steps (filtering, summarization, and response generation) with conditional transitions.
 - **Logging:** Detailed logging for debugging and monitoring application behavior.
+
+## Sequence Diagram
+
+<p align="center">
+  <img src="./assets/sequence-diagram.png" alt="Architecture" />
+  <br>
+  <em>Sequence Diagram</em>
+</p>
 
 ## Installation
 
